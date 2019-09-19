@@ -1,0 +1,12 @@
+Script started on Thu Sep 19 08:42:38 2019
+[?1034hbash-3.2$ ls
+0919.txt
+bash-3.2$ date
+2019년 9월 19일 목요일 08시 43분 25초 KST
+bash-3.2$ who
+admin    console  Sep 19 08:07 
+admin    ttys000  Sep 19 08:26 
+bash-3.2$ exit
+exit
+
+Script done on Thu Sep 19 08:43:32 2019
